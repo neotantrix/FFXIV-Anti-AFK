@@ -8,7 +8,7 @@ DISCLAIMER: <br>
 ‣ By downloading you explictly agree any consequence that may result from its use is the sole responsiblity of the end user. Be good humans. <br>
 <br>
 DESCRIPTION: <br>
-‣ This software will search for an instance of FFXIV on your pc, activate the window and press the key 'i' to open your inventory, sleep for 120 seconds and loop. <br>
+‣ This software will find the FFXIV process, activate the window and press the key 'i' then sleep for 120 seconds and loop. <br>
 ‣ If it cannot find FFXIV running on your pc before each loop it will suspend the process. <br>
 <br>
 INSTRUCTIONS: <br>
