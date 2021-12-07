@@ -13,7 +13,7 @@ DESCRIPTION: <br>
 <br>
 INSTRUCTIONS: <br>
 ‣ Open the exe and press F12 twice to toggle on the first time, afterwards F12 will toggle the exe on or off. <br>
-‣ To stop and close the app press ESC <br>
+‣ Press [ ESC ] at any point to terminate the process.  <br>
 <br>
 <br>
 
