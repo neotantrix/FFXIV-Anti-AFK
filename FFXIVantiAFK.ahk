@@ -8,7 +8,8 @@ F12::
 		WinActivate 
 	 else 
 		suspend
-        Send {i down}
+        	
+		Send {i down}
 	sleep 100
 		Send {i up}
         sleep 120000
