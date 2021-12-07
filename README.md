@@ -8,4 +8,4 @@ Description: This software when activated will search for an instance of FFXIV o
 INSTRUCTIONS: This program will seek out and activate your FFXIV game window each loop and suspend itself in the event it cant, so it is fine to be clicked away. Once active     you need to press F12 twice to toggle on the first time, afterwards you can toggle with one keypress of F12. Pressing the ESC key at any time will kill the process immediately.
 
 
-RAW AHK Script is also available for download for those that would rather have that.
+RAW AHK Script is also available for download.
