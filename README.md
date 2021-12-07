@@ -5,7 +5,7 @@ This is a simple script created in AHK then compiled using their compiler. <br>
 <br>
 DISCLAIMER: <br>
 ‣ This is created for demonstration and proof of concept purposes only. <br> 
-‣ By downloading you explictly agree any consequence that may result from its use is the sole responsiblity of the end user. Be good humans. <br>
+‣ By downloading you agree any consequence that may result from its use is the sole responsiblity of the end user. <br>
 <br>
 DESCRIPTION: <br>
 ‣ This software will find the FFXIV process, activate the window and press the key 'i' then sleep for 120 seconds and loop. <br>
