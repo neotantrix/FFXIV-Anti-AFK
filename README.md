@@ -8,7 +8,7 @@ DISCLAIMER: <br>
 ‣ By downloading you agree any consequence that may result from its use is the sole responsiblity of the end user. <br>
 <br>
 DESCRIPTION: <br>
-‣ This software will find the FFXIV process, activate the window and press the key 'i' then sleep for 120 seconds and loop. <br>
+‣ Each loop this will find the FFXIV process, activate the window, press [i] then sleep for 120 seconds. <br>
 ‣ If it cannot find FFXIV running on your pc before each loop it will suspend the process. <br>
 <br>
 INSTRUCTIONS: <br>
