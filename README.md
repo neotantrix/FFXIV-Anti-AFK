@@ -16,6 +16,6 @@ INSTRUCTIONS: <br>
 ‣ Press [ ESC ] at any point to terminate the process.  <br>
 <br>
 <br>
-
+****Verified Working with 7.0 Update****
 
 RAW AHK Script is also available for download.
